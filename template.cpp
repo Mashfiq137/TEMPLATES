@@ -34,7 +34,7 @@
 #define sf scanf
 #define pf1(x) printf("%d",x)
 #define pf printf
-#define PC() printf("Case %d: ", caseno++)
+#define PC() printf("Case %d: ", cs++)
 #define READ() freopen("in.txt", "r", stdin)
 #define WRITE() freopen("out.txt", "w", stdout)
 
