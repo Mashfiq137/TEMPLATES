@@ -1,4 +1,4 @@
-//O(log(N))
+//Complexity : O(log(N))
 
 #include<bits/stdc++.h>
 
